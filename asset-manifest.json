@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/detecteur-de-saisons/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/detecteur-de-saisons/static/js/main.ba9acd37.chunk.js",
+    "main.js.map": "/detecteur-de-saisons/static/js/main.ba9acd37.chunk.js.map",
+    "runtime-main.js": "/detecteur-de-saisons/static/js/runtime-main.0fc23e69.js",
+    "runtime-main.js.map": "/detecteur-de-saisons/static/js/runtime-main.0fc23e69.js.map",
+    "static/js/2.0ee67280.chunk.js": "/detecteur-de-saisons/static/js/2.0ee67280.chunk.js",
+    "static/js/2.0ee67280.chunk.js.map": "/detecteur-de-saisons/static/js/2.0ee67280.chunk.js.map",
+    "static/js/3.798e346a.chunk.js": "/detecteur-de-saisons/static/js/3.798e346a.chunk.js",
+    "static/js/3.798e346a.chunk.js.map": "/detecteur-de-saisons/static/js/3.798e346a.chunk.js.map",
+    "index.html": "/detecteur-de-saisons/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/detecteur-de-saisons/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0ee67280.chunk.js.LICENSE.txt": "/detecteur-de-saisons/static/js/2.0ee67280.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/detecteur-de-saisons/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fc23e69.js",
+    "static/js/2.0ee67280.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ba9acd37.chunk.js"
+  ]
+}
