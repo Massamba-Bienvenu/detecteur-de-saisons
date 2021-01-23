@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/detecteur-de-saisons/static/js/main.e16a16ab.chunk.js",
-    "main.js.map": "/detecteur-de-saisons/static/js/main.e16a16ab.chunk.js.map",
+    "main.js": "/detecteur-de-saisons/static/js/main.6881c433.chunk.js",
+    "main.js.map": "/detecteur-de-saisons/static/js/main.6881c433.chunk.js.map",
     "runtime-main.js": "/detecteur-de-saisons/static/js/runtime-main.b7c119c5.js",
     "runtime-main.js.map": "/detecteur-de-saisons/static/js/runtime-main.b7c119c5.js.map",
-    "static/js/2.bb91a437.chunk.js": "/detecteur-de-saisons/static/js/2.bb91a437.chunk.js",
-    "static/js/2.bb91a437.chunk.js.map": "/detecteur-de-saisons/static/js/2.bb91a437.chunk.js.map",
+    "static/js/2.bf2b6b83.chunk.js": "/detecteur-de-saisons/static/js/2.bf2b6b83.chunk.js",
+    "static/js/2.bf2b6b83.chunk.js.map": "/detecteur-de-saisons/static/js/2.bf2b6b83.chunk.js.map",
     "index.html": "/detecteur-de-saisons/index.html",
-    "static/js/2.bb91a437.chunk.js.LICENSE.txt": "/detecteur-de-saisons/static/js/2.bb91a437.chunk.js.LICENSE.txt"
+    "static/js/2.bf2b6b83.chunk.js.LICENSE.txt": "/detecteur-de-saisons/static/js/2.bf2b6b83.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b7c119c5.js",
-    "static/js/2.bb91a437.chunk.js",
-    "static/js/main.e16a16ab.chunk.js"
+    "static/js/2.bf2b6b83.chunk.js",
+    "static/js/main.6881c433.chunk.js"
   ]
 }
