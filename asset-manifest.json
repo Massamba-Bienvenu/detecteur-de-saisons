@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/detecteur-de-saisons/static/css/main.b2d1a255.chunk.css",
-    "main.js": "/detecteur-de-saisons/static/js/main.d61a4f12.chunk.js",
-    "main.js.map": "/detecteur-de-saisons/static/js/main.d61a4f12.chunk.js.map",
+    "main.js": "/detecteur-de-saisons/static/js/main.56b2ec2b.chunk.js",
+    "main.js.map": "/detecteur-de-saisons/static/js/main.56b2ec2b.chunk.js.map",
     "runtime-main.js": "/detecteur-de-saisons/static/js/runtime-main.b7c119c5.js",
     "runtime-main.js.map": "/detecteur-de-saisons/static/js/runtime-main.b7c119c5.js.map",
     "static/js/2.bf2b6b83.chunk.js": "/detecteur-de-saisons/static/js/2.bf2b6b83.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b7c119c5.js",
     "static/js/2.bf2b6b83.chunk.js",
     "static/css/main.b2d1a255.chunk.css",
-    "static/js/main.d61a4f12.chunk.js"
+    "static/js/main.56b2ec2b.chunk.js"
   ]
 }
